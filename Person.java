@@ -11,7 +11,7 @@ public class Person{ // Parent Class
     }
 
     public String introduce() {
-        return "Hello! My name is " + this.name + ". I am " + this.age + " years old. It's nice to meet you!";
+        return "Hello! My name is " + this.name + ". I am " + this.age + " years old.";
     }
 
 }
