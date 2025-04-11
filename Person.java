@@ -2,7 +2,7 @@
 
 public class Person{ // Parent Class
 
-    private final String name;
+    public final String name;
     private final int age;
 
     public Person(String name, int age) {
